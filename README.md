@@ -31,13 +31,16 @@
 root/
 ├── components/
 ├── pages/
+
 │ ├── index.js # Home
 │ ├── product/[id].js # Product page
+
 ├── backend/
 │ ├── models/
 │ ├── routes/
 │ └── controllers/
 ├── public/
+
 ├── .env (for local variables)
 └── .gitignore
 
@@ -78,6 +81,13 @@ Frontend: Vercel
 Backend: Railway or Render
 
 📸 Screenshots
+<img width="1895" height="876" alt="image" src="https://github.com/user-attachments/assets/b7b1ee78-7dc0-447e-b2c2-bf444d596df9" />
+
+<img width="1894" height="874" alt="image" src="https://github.com/user-attachments/assets/97eee14f-0b55-4c5d-a12b-73e16cf7ffef" />
+<img width="1889" height="889" alt="image" src="https://github.com/user-attachments/assets/a373e552-b90e-47d9-89e5-31ef4a0c8d3c" />
+<img width="1884" height="884" alt="image" src="https://github.com/user-attachments/assets/4651f964-1196-4d71-8bbe-a5add09f5424" />
+<img width="1887" height="890" alt="image" src="https://github.com/user-attachments/assets/76b06628-a23f-4541-b38f-03a52056b4e9" />
+<img width="1898" height="820" alt="image" src="https://github.com/user-attachments/assets/0ec646a6-fea4-469b-b728-739979c99d2f" />
 
 
 🤝 Contributing
